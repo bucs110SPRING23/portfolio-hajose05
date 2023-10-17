@@ -1,3 +1,4 @@
+#PART A
 import turtle  
 import random
 
@@ -65,5 +66,3 @@ for j in range(0,7):
         screen.fill('black') 
         pygame.display.flip()  
         points = [] 
-     
-        
